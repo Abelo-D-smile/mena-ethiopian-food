@@ -1,1 +1,1 @@
-# mena-ethiopian-food
+gitignore
